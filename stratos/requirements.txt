@@ -1,0 +1,11 @@
+streamlit>=1.36
+polars>=1.0
+pyarrow>=16.0
+plotly>=5.22
+yfinance>=0.2.40
+fredapi>=0.5.2
+requests>=2.32
+feedparser>=6.0
+APScheduler>=3.10
+PyYAML>=6.0
+python-dotenv>=1.0

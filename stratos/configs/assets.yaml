@@ -1,0 +1,45 @@
+market:
+  DXY: DX-Y.NYB
+  VIX: ^VIX
+  Oil: CL=F
+  Gold: GC=F
+  Bitcoin: BTC-USD
+  S&P 500: ^GSPC
+  Nasdaq 100: ^NDX
+  Nikkei 225: ^N225
+  FTSE 100: ^FTSE
+  USDIDR: IDR=X
+  JKSE: ^JKSE
+  10Y Treasury: ^TNX
+  2Y Treasury: ^IRX
+sectors:
+  XLB: Materials
+  XLE: Energy
+  XLF: Financials
+  XLI: Industrials
+  XLK: Technology
+  XLP: Staples
+  XLU: Utilities
+  XLV: Health Care
+  XLY: Discretionary
+  XLRE: Real Estate
+  XLC: Communication Services
+indonesia:
+  BBCA.JK: Bank Central Asia
+  BBRI.JK: Bank Rakyat Indonesia
+  BMRI.JK: Bank Mandiri
+  TLKM.JK: Telkom Indonesia
+  ASII.JK: Astra International
+  ANTM.JK: Aneka Tambang
+  ADRO.JK: Adaro Energy
+crypto:
+  bitcoin: BTC
+  ethereum: ETH
+watchlist:
+  - SPY
+  - QQQ
+  - GLD
+  - TLT
+  - BTC-USD
+  - ETH-USD
+  - BBCA.JK
