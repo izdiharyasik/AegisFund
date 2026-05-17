@@ -1,0 +1,28 @@
+trend:
+  short_window: 20
+  long_window: 50
+  momentum_window: 20
+  volatility_window: 20
+  drawdown_window: 63
+regime:
+  risk_on_threshold: 35
+  risk_off_threshold: -20
+  weights:
+    dxy: -15
+    yields: -20
+    vix: -25
+    oil: -5
+    btc: 15
+    equities: 30
+watchlist:
+  entry_buffer: 0.005
+  take_profit_atr: 2.0
+  stop_loss_atr: 1.2
+  conviction_weights:
+    momentum: 0.35
+    trend: 0.30
+    relative_strength: 0.20
+    macro_alignment: 0.15
+portfolio:
+  concentration_warning: 0.25
+  correlation_warning: 0.75

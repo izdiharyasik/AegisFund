@@ -1,0 +1,12 @@
+app_name: StratOS
+page_icon: 📊
+colors:
+  bg: '#0B0F14'
+  surface: '#111923'
+  border: '#223040'
+  text: '#E6EDF3'
+  muted: '#8B949E'
+  good: '#2ECC71'
+  warn: '#F1C40F'
+  bad: '#E74C3C'
+  info: '#3498DB'

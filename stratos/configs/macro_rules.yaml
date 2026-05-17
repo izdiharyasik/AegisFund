@@ -1,0 +1,33 @@
+rules:
+  persistent_inflation:
+    conditions:
+      dxy: rising
+      yields: rising
+      oil: rising
+    confidence: 0.78
+    narrative: Markets are pricing persistent inflation and tighter liquidity.
+    implication: Favor quality cash flows, energy sensitivity, and shorter duration.
+  liquidity_relief:
+    conditions:
+      dxy: falling
+      yields: falling
+      vix: calm
+    confidence: 0.74
+    narrative: Liquidity pressure is easing and risk appetite can broaden.
+    implication: Growth, cyclicals, and crypto may receive incremental flows.
+  defensive_stress:
+    conditions:
+      vix: elevated
+      equities: falling
+      btc: falling
+    confidence: 0.82
+    narrative: Cross-asset signals point to defensive positioning and de-risking.
+    implication: Reduce concentration, review stops, and prioritize hedges or cash.
+  reflation_risk_on:
+    conditions:
+      oil: rising
+      equities: rising
+      vix: calm
+    confidence: 0.70
+    narrative: Markets are leaning into reflation with constructive risk appetite.
+    implication: Cyclicals, commodities, and selected value exposures deserve attention.
